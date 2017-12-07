@@ -1,0 +1,11 @@
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp2.0\DistanceConverter.deps.json
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp2.0\DistanceConverter.runtimeconfig.json
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp2.0\DistanceConverter.runtimeconfig.dev.json
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp2.0\DistanceConverter.dll
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\bin\Debug\netcoreapp2.0\DistanceConverter.pdb
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp2.0\DistanceConverter.csprojResolveAssemblyReference.cache
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp2.0\DistanceConverter.csproj.CoreCompileInputs.cache
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp2.0\DistanceConverter.AssemblyInfoInputs.cache
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp2.0\DistanceConverter.AssemblyInfo.cs
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp2.0\DistanceConverter.dll
+c:\users\thiag\documents\visual studio 2017\Projects\DistanceConverter\DistanceConverter\obj\Debug\netcoreapp2.0\DistanceConverter.pdb

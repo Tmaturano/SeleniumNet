@@ -1,0 +1,17 @@
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\Selenium.Tests.deps.json
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\Selenium.Tests.runtimeconfig.json
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\Selenium.Tests.runtimeconfig.dev.json
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\Selenium.Tests.dll
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\obj\Debug\netcoreapp2.0\Selenium.Tests.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\obj\Debug\netcoreapp2.0\Selenium.Tests.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\obj\Debug\netcoreapp2.0\Selenium.Tests.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\obj\Debug\netcoreapp2.0\Selenium.Tests.AssemblyInfo.cs
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\Selenium.Utils.dll
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\Selenium.Tests.pdb
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\bin\Debug\netcoreapp2.0\Selenium.Utils.pdb
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\obj\Debug\netcoreapp2.0\Selenium.Tests.dll
+C:\Users\thiag\Documents\Visual Studio 2017\Projects\SeleniumNet\Selenium.Tests\obj\Debug\netcoreapp2.0\Selenium.Tests.pdb
